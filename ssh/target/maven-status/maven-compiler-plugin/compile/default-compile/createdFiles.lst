@@ -1,0 +1,6 @@
+com\sky\crm\action\CustomerAction.class
+com\sky\crm\service\CustomerService.class
+com\sky\crm\entity\Customer.class
+com\sky\crm\service\impl\CustomerServiceImpl.class
+com\sky\crm\dao\CustomerDao.class
+com\sky\crm\dao\impl\CustomerDaoImpl.class

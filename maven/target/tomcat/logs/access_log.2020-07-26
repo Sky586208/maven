@@ -1,0 +1,2 @@
+127.0.0.1 - - [26/Jul/2020:21:31:42 +0800] "GET /maven/findById.action?custId=1 HTTP/1.1" 200 280 http-bio-8080-exec-2 1777
+127.0.0.1 - - [26/Jul/2020:21:31:42 +0800] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-3 0
